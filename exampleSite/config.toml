@@ -12,10 +12,6 @@ weight = 3
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Home"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
