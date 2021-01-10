@@ -4,30 +4,26 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Orangutan Friendly Tour | Your Home Stay Guide"
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
+[menu.main]
+hasChildren = true
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+author = "Edy"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m a Homestay Guide for Orangutan Borneo Trip."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "edy@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = "+62 8xxx xxx"
 preloader = true
 search = true
 [params.cookies]
