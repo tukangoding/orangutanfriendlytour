@@ -8,7 +8,6 @@ categories:
 - Home Stay
 tags:
 - Photos
-draft: true
 
 ---
 This is how to hire me up to company you.
