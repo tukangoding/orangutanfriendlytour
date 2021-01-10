@@ -5,16 +5,6 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Orangutan Friendly Tour | Your Home Stay Guide"
 [[menu.main]]
-name = "Homepage 1"
-parent = "Home"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
-name = "Homepage 2"
-parent = "Home"
-url = "homepage/home-2"
-weight = 2
-[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
